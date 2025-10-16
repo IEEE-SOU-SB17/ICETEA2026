@@ -73,13 +73,10 @@ export default function STPPage() {
               </tr>
             </thead>
             <tbody>
-              <tr><td className="py-2 px-4">Paper submission starts</td><td className="py-2 px-4">--</td></tr>
-              <tr><td className="py-2 px-4">Paper submission deadline</td><td className="py-2 px-4">--</td></tr>
-              <tr><td className="py-2 px-4">Notification of acceptance</td><td className="py-2 px-4">--</td></tr>
-              <tr><td className="py-2 px-4">Early bird Registration ends</td><td className="py-2 px-4">--</td></tr>
-              <tr><td className="py-2 px-4">Regular Registration ends</td><td className="py-2 px-4">--</td></tr>
-              <tr><td className="py-2 px-4">Camera-ready Submissions</td><td className="py-2 px-4">--</td></tr>
-              <tr><td className="py-2 px-4">Conference Dates</td><td className="py-2 px-4">--</td></tr>
+              <tr><td className="py-2 px-4">Submission date:</td><td className="py-2 px-4">January 17, 2026</td></tr>
+              <tr><td className="py-2 px-4">Submission date:</td><td className="py-2 px-4">February 21, 2026 </td></tr>
+              <tr><td className="py-2 px-4">Deadline for final papers:</td><td className="py-2 px-4">March  14, 2026</td></tr>
+
             </tbody>
           </table>
         </div>
