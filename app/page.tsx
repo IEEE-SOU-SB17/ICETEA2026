@@ -25,7 +25,7 @@ export default function HomePage() {
           <div className="relative mx-auto w-24 h-24 mb-6 md:w-40 md:h-40 md:mb-8 flex items-center justify-center">
             <Link href="/">
               <img 
-                src="https://setumadhavani-ldnja.wordpress.com/wp-content/uploads/2025/09/gemini_generated_image_3rjetk3rjetk3rje.png" 
+                src="http://ieee.socet.edu.in/wp-content/uploads/2025/10/RGB-scaled.png" 
                 alt="ICETEA 2026" 
                 className="w-20 h-20 md:w-36 md:h-36 object-contain animate-pulse cursor-pointer rounded-full bg-white shadow-md" 
                 style={{filter: 'drop-shadow(0 0 8px rgba(0,191,174,0.4))'}}
