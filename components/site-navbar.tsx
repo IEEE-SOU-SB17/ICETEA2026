@@ -18,8 +18,7 @@ const links = [
   { href: "/registration", label: "Registration" },
   { href: "/committees", label: "Committees" },
   //{ href: "/speakers", label: "Speakers" },
-  { href: "/schedule", label: "Schedule" },
-  { href: "/acknowledgment", label: "Acknowledgment" }, // Add this new line
+  { href: "/schedule", label: "Schedule" }, // Add this new line
   //{ href: "/contact", label: "Contact" },
 ]
 
