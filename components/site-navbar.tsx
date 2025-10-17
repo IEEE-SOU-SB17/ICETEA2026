@@ -45,13 +45,13 @@ export function SiteNavbar() {
           <Link href="/">
             <span className="inline-block align-middle mr-2">
               <img 
-                src="https://setumadhavani-ldnja.wordpress.com/wp-content/uploads/2025/09/gemini_generated_image_3rjetk3rjetk3rje-removebg-preview.png" 
+                src="http://ieee.socet.edu.in/wp-content/uploads/2025/10/RGB-scaled.png" 
                 alt="ICETEA Conference" 
                 className="h-10 w-auto object-contain"
               />
             </span>
           </Link>
-          <span className="text-white font-bold text-lg tracking-wide">ICETEA 2026</span>
+          {/* <span className="text-white font-bold text-lg tracking-wide">ICETEA 2026</span> */}
         </div>
         {/* Desktop nav */}
         <div className="hidden md:flex flex-row items-center gap-4 whitespace-nowrap">
