@@ -47,7 +47,7 @@ export default function HomePage() {
             <div className="inline-block px-0 py-0">
               <p className="text-2xl md:text-3xl font-bold text-blue-900 tracking-wide mb-2">
                 ICETEA 2026<br/>
-                <span className="ml-3 px-3 py-1 rounded-full text-sm font-semibold text-teal-700 align-center">February 19–20, 2026</span>
+                <span className="ml-3 px-3 py-1 rounded-full text-sm font-semibold text-teal-700 align-center">March 24-25, 2026</span>
               </p>
               <p className="text-lg text-blue-700 font-medium text-center">
                 College of Technology, Silver Oak University, Ahmedabad, India<br/>
